@@ -21,4 +21,4 @@ build
 eclipse
 run
 
-src\main\resources\assets\rcraftmusic\sounds
+src/main/resources/assets/rcraftmusic/sounds
