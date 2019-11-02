@@ -1,0 +1,155 @@
+{
+	"music.tone": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:tone", "stream": true}]
+	},
+	"music.prairieclearweather": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:prairieclearweather", "stream": true}]
+	},
+	"music.prairiecloudy": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:prairiecloudy", "stream": true}]
+	},
+	"music.prairieevening": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:prairieevening", "stream": true}]
+	},
+	"music.avatarspace": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:avatarspace", "stream": true}]
+	},
+	"music.desktop": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:desktop", "stream": true}]
+	},
+	"music.castledungeon": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:castledungeon", "stream": true}]
+	},
+	"music.cavedungeon": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:cavedungeon", "stream": true}]
+	},
+	"music.desertfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:desertfield", "stream": true}]
+	},
+	"music.earthfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:earthfield", "stream": true}]
+	},
+	"music.forestfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:forestfield", "stream": true}]
+	},
+	"music.meatwalldungeon": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:meatwalldungeon", "stream": true}]
+	},
+	"music.prairierain": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:prairierain", "stream": true}]
+	},
+	"music.scorchingfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:scorchingfield", "stream": true}]
+	},
+	"music.snowfieldnightfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:snowfieldnightfield", "stream": true}]
+	},
+	"music.stonewalldungeon": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:stonewalldungeon", "stream": true}]
+	},
+	"music.wastelandfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:wastelandfield", "stream": true}]
+	},
+	"music.wildernessfield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:wildernessfield", "stream": true}]
+	},
+	"music.menuopen": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:menuopen", "stream": true}]
+	},
+	"music.gateopen": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:gateopen", "stream": true}]
+	},
+	"music.gateclose": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:gateclose", "stream": true}]
+	},
+	"music.lumina": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:lumina", "stream": true}]
+	},
+	"music.desertclear": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:desertclear", "stream": true}]
+	},
+	"music.desertcloudy": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:desertcloudy", "stream": true}]
+	},
+	"music.desertnighttime": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:desertnighttime", "stream": true}]
+	},
+	"music.doldonna": {	
+		"category": "music", "sounds": [{"name": "rcraftmusic:doldonna", "stream": true}]
+	},
+	"music.bregepona": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:bregepona", "stream": true}]
+	},
+	"music.tatarga-net-slum": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:tatarganetslum", "stream": true}]
+	},
+	"music.forestofpain": {	
+		"category": "music", "sounds": [{"name": "rcraftmusic:forestofpain", "stream": true}]
+	},
+	"music.archekloenwaterfall": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:archekloenwaterfall", "stream": true}]
+	},
+	"music.balbolartmuseum": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:balbolartmuseum", "stream": true}]
+	},
+	"music.brionagwydeonthedragonbeinrange": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:brionagwydeonthedragonbeinrange", "stream": true}]
+	},
+	"music.cityofdawnarselray": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:cityofdawnarselray", "stream": true}]
+	},
+	"music.coitebodharbattlefield": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:coitebodharbattlefield", "stream": true}]
+	},
+	"music.deadworldofindieglutlugh": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:deadworldofindieglutlugh", "stream": true}]
+	},
+	"music.greattempleofcaerleonmedb": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:greattempleofcaerleonmedb", "stream": true}]
+	},
+	"music.hullegranzcathedral": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:hullegranzcathedral", "stream": true}]
+	},
+	"music.hybrasil": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:hybrasil", "stream": true}]
+	},
+	"music.invertedcitymeginfi": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:invertedcitymeginfi", "stream": true}]
+	},
+	"music.islandofkingshybrasil": {	
+		"category": "music", "sounds": [{"name": "rcraftmusic:islandofkingshybrasil", "stream": true}]
+	},
+	"music.morrigubarrowwall": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:morrigubarrowwall", "stream": true}]
+	},
+	"music.sugarmansionsifburg": {	
+		"category": "music", "sounds": [{"name": "rcraftmusic:sugarmansionsifburg", "stream": true}]
+	},
+	"music.wailingcapitalwalduberlisterin": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:wailingcapitalwalduberlisterin", "stream": true}]
+	},
+	"music.warp": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:warp", "stream": true}]
+	},
+	"music.liafail": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:liafail", "stream": true}]
+	},
+	"music.fortouph": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:fortouph", "stream": true}]
+	},
+	"music.macanur1": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:macanur1", "stream": true}]
+	},
+	"music.carminagadelica": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:carminagadelica", "stream": true}]
+	},
+	"music.dunloriag": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:dunloriag", "stream": true}]
+	},
+	"music.epitaphofthetwilight": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:epitaphofthetwilight", "stream": true}]
+	},
+	"music.macanur2": {
+		"category": "music", "sounds": [{"name": "rcraftmusic:macanur2", "stream": true}]
+	}
+}

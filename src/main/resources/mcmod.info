@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rcraftmusic",
+  "name": "The World R:Craft Music",
+  "description": "This mod adds the music needed for The World R:Craft Modpack.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/the-world-r-craft-sounds",
+  "updateUrl": "",
+  "authorList": ["AzureZhen"],
+  "credits": "AzureZhen",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
