@@ -3,7 +3,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:tone",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -12,7 +12,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:prairieclearweather",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -21,7 +21,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:prairiecloudy",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -30,7 +30,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:prairieevening",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -39,7 +39,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:avatarspace",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -48,7 +48,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:desktop",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -57,7 +57,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:castledungeon",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -66,7 +66,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:cavedungeon",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -75,7 +75,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:desertfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -84,7 +84,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:earthfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -93,7 +93,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:forestfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -102,7 +102,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:meatwalldungeon",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -111,7 +111,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:prairierain",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -120,7 +120,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:scorchingfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -129,7 +129,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:snowfieldnightfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -138,7 +138,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:stonewalldungeon",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -147,7 +147,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:wastelandfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -156,7 +156,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:wildernessfield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -165,7 +165,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:menuopen",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -174,7 +174,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:gateopen",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -183,7 +183,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:gateclose",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -192,7 +192,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:lumina",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -201,7 +201,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:desertclear",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -210,7 +210,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:desertcloudy",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -219,7 +219,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:desertnighttime",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -228,7 +228,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:doldonna",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -237,7 +237,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:bregepona",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -246,7 +246,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:tatarganetslum",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -255,7 +255,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:forestofpain",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -264,7 +264,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:archekloenwaterfall",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -273,7 +273,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:balbolartmuseum",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -282,7 +282,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:brionagwydeonthedragonbeinrange",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -291,7 +291,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:cityofdawnarselray",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -300,7 +300,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:coitebodharbattlefield",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -309,7 +309,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:deadworldofindieglutlugh",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -318,7 +318,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:greattempleofcaerleonmedb",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -327,7 +327,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:hullegranzcathedral",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -336,7 +336,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:hybrasil",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -345,7 +345,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:invertedcitymeginfi",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -354,7 +354,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:islandofkingshybrasil",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -363,7 +363,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:morrigubarrowwall",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -372,7 +372,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:sugarmansionsifburg",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -381,7 +381,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:wailingcapitalwalduberlisterin",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -390,7 +390,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:warp",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -399,7 +399,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:liafail",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -408,7 +408,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:fortouph",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -417,7 +417,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:macanur1",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -426,7 +426,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:carminagadelica",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -435,7 +435,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:dunloriag",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -444,7 +444,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:epitaphofthetwilight",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
@@ -453,7 +453,7 @@
 		"sounds": [
 			{
 				"name": "rcraftmusic:macanur2",
-				"volume": 0.5,
+				"volume": 0.1,
 				"stream": true
 			}
 		]
