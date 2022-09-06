@@ -1,32 +1,23 @@
 package mod.azure.rcraftmusic;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.ItemStack;
+import net.minecraft.util.Identifier;
 
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+public class RCraftMusicMod implements ModInitializer {
 
-@Mod(modid = RCraftMusicMod.MODID, version = RCraftMusicMod.VERSION, dependencies = RCraftMusicMod.DEPENDENCIES)
-public class RCraftMusicMod {
-	
 	public static final String MODID = "rcraftmusic";
-	public static final String MODNAME = "The World R:Craft Music";
-	public static final String VERSION = "1.0.0";
-	public static final String DEPENDENCIES = "required:forge;required:customnpcs";
-	private static final Logger LOGGER = LogManager.getLogger();
-	
-	@Mod.EventHandler
-	public void preInit(FMLPreInitializationEvent e) {
-		LOGGER.debug("Loading Music...");
-	}
-	@Mod.EventHandler
-	public void init(FMLInitializationEvent e) {
-		LOGGER.debug("Setting up the speakers...");	
-	}
-	@Mod.EventHandler
-	public void postInit(FMLPostInitializationEvent e) {
-		LOGGER.debug("This shindig looks like the bomb-diggity");		
+	public static RCraftItems ITEMS;
+	public static RCraftSounds SOUNDS;
+
+	public static final ItemGroup RcraftItemGroup = FabricItemGroupBuilder.create(new Identifier(MODID, "rcraftmusic"))
+			.icon(() -> new ItemStack(RCraftItems.TONE_ITEM)).build();
+
+	@Override
+	public void onInitialize() {
+		ITEMS = new RCraftItems();
+		SOUNDS = new RCraftSounds();
 	}
 }

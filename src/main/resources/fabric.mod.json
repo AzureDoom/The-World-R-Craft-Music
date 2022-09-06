@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "rcraftmusic",
+	"version": "${version}",
+	"name": "The World R:Craft Music",
+	"description": "This mod adds the music needed for The World R:Craft Modpack.",
+	"authors": [
+		"AzureDoom"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/the-world-r-craft-music",
+		"sources": "https://github.com/AzureDoom/The-World-R-Craft-Music",
+		"issues": "https://github.com/AzureDoom/The-World-R-Craft-Music/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/rcraftmusic/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mod.azure.rcraftmusic.RCraftMusicMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.9",
+		"fabric": "*",
+		"minecraft": ">=1.19.2",
+		"java": ">=17"
+	}
+}
