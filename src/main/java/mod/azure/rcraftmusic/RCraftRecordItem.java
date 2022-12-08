@@ -10,7 +10,7 @@ public class RCraftRecordItem extends MusicDiscItem {
 
 	public RCraftRecordItem(SoundEvent soundSupplier) {
 		super(1, soundSupplier,
-				(new Item.Settings()).maxCount(1).group(RCraftMusicMod.RcraftItemGroup).rarity(Rarity.RARE), 60);
+				(new Item.Settings()).maxCount(1).rarity(Rarity.RARE), 60);
 	}
 
 	@Override

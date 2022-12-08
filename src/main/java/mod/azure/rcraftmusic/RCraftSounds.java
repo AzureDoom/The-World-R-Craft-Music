@@ -1,8 +1,9 @@
 package mod.azure.rcraftmusic;
 
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.registry.Registry;
 
 public class RCraftSounds {
 
@@ -59,8 +60,8 @@ public class RCraftSounds {
 	public static SoundEvent MACANUR2_SOUND = ofSound("music.macanur2");
 
 	static SoundEvent ofSound(String id) {
-		SoundEvent sound = new SoundEvent(new Identifier(RCraftMusicMod.MODID, id));
-		Registry.register(Registry.SOUND_EVENT, new Identifier(RCraftMusicMod.MODID, id), sound);
+		SoundEvent sound = SoundEvent.of(new Identifier(RCraftMusicMod.MODID, id));
+		Registry.register(Registries.SOUND_EVENT, new Identifier(RCraftMusicMod.MODID, id), sound);
 		return sound;
 	}
 }

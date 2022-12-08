@@ -1,8 +1,9 @@
 package mod.azure.rcraftmusic;
 
 import net.minecraft.item.Item;
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.registry.Registry;
 
 public class RCraftItems {
 
@@ -59,7 +60,7 @@ public class RCraftItems {
 	public static final RCraftRecordItem MACANUR2_ITEM = ofItem(new RCraftRecordItem(RCraftSounds.MACANUR2_SOUND), "macanur2_disc");
 
 	static <T extends Item> T ofItem(T c, String id) {
-		Registry.register(Registry.ITEM, new Identifier(RCraftMusicMod.MODID, id), c);
+		Registry.register(Registries.ITEM, new Identifier(RCraftMusicMod.MODID, id), c);
 		return c;
 	}
 }
