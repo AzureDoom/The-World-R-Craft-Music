@@ -29,7 +29,7 @@ repositories {
 
 dependencies {
 	minecraft "com.mojang:minecraft:${project.minecraft_version}"
-	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+    mappings loom.officialMojangMappings()
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 }
@@ -82,7 +82,7 @@ if (file('key.properties').exists()) {
         	releaseType = "release"
         	changelogType = 'text'
         	changelog = file('CHANGELOG.txt')
-			addGameVersion("1.19.3")
+			addGameVersion("1.19.4")
 			addGameVersion("Quilt")
 			addGameVersion("Fabric")
 			addGameVersion("Java 17")
@@ -110,10 +110,10 @@ if (file('key.properties').exists()) {
 		token = modrinthProp.getProperty('modrinthKey')
 		projectId = 'rrzywo9n' 
 		versionNumber = project.mod_version 
-		versionName = 'Fabric/Quilt 1.19.3'
+		versionName = 'Fabric/Quilt 1.19.4'
 		uploadFile = remapJar 
 		changelog = rootProject.file("changelog.txt").text
-		gameVersions = ['1.19.3']
+		gameVersions = ['1.19.4']
 		loaders = ['fabric','quilt']
 	}
 }

@@ -1,23 +1,22 @@
 package mod.azure.rcraftmusic;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.MusicDiscItem;
-import net.minecraft.sound.SoundEvent;
-import net.minecraft.util.Rarity;
+import net.minecraft.sounds.SoundEvent;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Rarity;
+import net.minecraft.world.item.RecordItem;
 
-public class RCraftRecordItem extends MusicDiscItem {
+public class RCraftRecordItem extends RecordItem {
 
 	public RCraftRecordItem(SoundEvent soundSupplier) {
-		super(1, soundSupplier,
-				(new Item.Settings()).maxCount(1).rarity(Rarity.RARE), 60);
+		super(1, soundSupplier, (new Item.Properties()).stacksTo(1).rarity(Rarity.RARE), 60);
 	}
 
 	@Override
-	public boolean hasGlint(ItemStack stack) {
+	public boolean isFoil(ItemStack stack) {
 		return false;
 	}
-	
+
 	@Override
 	public Rarity getRarity(ItemStack stack) {
 		return Rarity.EPIC;
